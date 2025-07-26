@@ -60,8 +60,15 @@
 
 ## 📬 Contacto
 
-- 💼 [LinkedIn](www.linkedin.com/in/kevin-alexander-briceño-quezada-577854307)
-- 📧 Email: kevinalexanderbricenoquezada@gmail.com
+<div align="center">
+<p>
+  <a href="mailto:kevinalexanderbricenoquezada@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/kevinalexanderbricenoquezada@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+</p>
+<a href="https://www.linkedin.com/in/kevin-alexander-briceño-quezada-577854307"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</a>
+</div>
 
 > ¡Gracias por visitar mi perfil! 😊
 
